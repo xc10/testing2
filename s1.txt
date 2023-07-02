@@ -1,12 +1,14 @@
 Mgmt. ip:10.0.0.1
 Sdn_controller: 10.20.2.2
 Vlans:
+   Green:
+     Id: 10
    Red:
      Id: 10
    Blue:
      Id:20
 Ports:
-  1:[20]
-  2:[10]
+  1:[10]
+  2:[20]
   3:[10,20]
 Auth_sever:10.30.3.3
