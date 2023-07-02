@@ -1,4 +1,4 @@
-Mgmt. ip:10.0.0.1
+Mgmt. ip:10.0.2.2
 sdn_controller:10.20.2.2
 Vlans:
    Green:
@@ -9,4 +9,4 @@ Ports:
   1:[10]
   2:[20]
   3:[10,20]
-Auth_sever:10.30.3.3
+ 
